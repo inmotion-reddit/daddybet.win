@@ -6,6 +6,7 @@ Disallow: /terms-and-conditions
 Disallow: /assets_files/saved_resource.html
 Disallow: /about-us
 Disallow: /mail.php
+Disallow: /search?q={search_term_string}
 
 User-agent:Google-Extended
 Disallow:/
